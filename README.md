@@ -33,7 +33,6 @@ To view the project locally, you can either open the project files in your code 
 Inside `index.html`:
 - [X] Update the HTML tags so that they are correct and semantic
 
-
 ### Tips
 - Remember to update the closing tags when changing an element.
 - Push a commit for each task completed. Include a meaningfull commit message.
